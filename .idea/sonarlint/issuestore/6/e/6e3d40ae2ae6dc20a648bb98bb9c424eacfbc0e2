@@ -1,0 +1,15 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(êù·Ëûÿÿÿÿ
+U
+java:S6213+":Rename this variable to not match a restricted identifier.(¯Îÿ«ıÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(ää×Ùşÿÿÿÿ
+E
+java:S1197C"*Move the array designators [] to the type.(Õß±ëøÿÿÿÿ
+U
+java:S6213X":Rename this variable to not match a restricted identifier.(ÜÙôùÿÿÿÿ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ıãÃ¥ÿÿÿÿÿ
+K
+java:S2696q"6Make the enclosing method "static" or remove this set.(‰ç†v
+V	java:S125s"<This block of commented-out lines of code should be removed.(±¨ôØúÿÿÿÿ
+H
+java:S1068"2Remove this unused "amazonDynamoDB" private field.(ÒÑ¿Ó
